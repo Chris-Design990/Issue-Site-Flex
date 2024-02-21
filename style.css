@@ -31,6 +31,8 @@ img {
 	display: flex;
 	justify-content: center;
 	gap: 1em;
+	font-size: 2em;
+	background-color: #fff;
 }
 
 
