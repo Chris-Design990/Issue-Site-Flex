@@ -1,0 +1,52 @@
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+h1   {
+	color: darkblue;
+	font-size: 40px;
+}
+p    {
+	color: darkblue;
+	font-size: 30px;
+}
+
+img {
+	display: block;
+/*	margin-left: auto;
+	margin-right: auto;*/
+	width: 50%;
+}
+
+#homeImage {
+	width: 25%;
+}
+
+.centeringContainer {
+	display: flex;
+	justify-content: center;
+}
+
+.col {
+	display: flex;
+	justify-content: center;
+	gap: 1em;
+}
+
+
+.container {
+	
+	justify-content: center;
+	align-content: center;
+	flex-shrink: 1;
+/*	display: flex;*/
+	gap: 1em;
+	box-sizing: border-box;
+	flex-grow: 1;
+
+}
+
+.flex-parent {
+	display: flex;
+	flex-basis: 100%;
+}
