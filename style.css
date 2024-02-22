@@ -22,6 +22,16 @@ img {
 	width: 25%;
 }
 
+#Terry {
+	width: 50%;
+}
+
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
 .centeringContainer {
 	display: flex;
 	justify-content: center;
@@ -41,7 +51,6 @@ img {
 	justify-content: center;
 	align-content: center;
 	flex-shrink: 1;
-/*	display: flex;*/
 	gap: 1em;
 	box-sizing: border-box;
 	flex-grow: 1;
